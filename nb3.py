@@ -1,0 +1,1 @@
+print("Added by friend")
